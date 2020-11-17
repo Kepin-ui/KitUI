@@ -1,0 +1,9 @@
+name: KitUIbyD4R
+main: KitUIbyD4R\Kit\Main
+author: D4RKJO
+api: 3.0.0
+version: 1.0
+
+commands:
+  kit:
+    description: "Claim kit untuk bertahan hidup"
